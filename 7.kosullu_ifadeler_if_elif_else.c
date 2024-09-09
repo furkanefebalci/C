@@ -14,47 +14,15 @@ int main() {
 	
 	scanf("%d",&note);
 	
-	
-	
-	if(note > 60 ){
-		
-		
-		
+	if(note > 60 ) {
 		//yapýlacak iþlemler
-		
-		
-		
+
 		printf("Dersten gectiniz:");
-		
-		
-	}
-	
-	
-
-   else {
-   	
+	} else {
    	printf("Dersten kaldin:");
-   	
-   	
-   	
-   	
-   	
-   	
-   	
 	}
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 
-	
 	return 0;
 	
 }
