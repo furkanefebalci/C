@@ -1,8 +1,4 @@
 #include<stdio.h>
-
-
-//YARDIM ÝSTE 
-
 int main() {
 	
 	//integer
@@ -29,7 +25,6 @@ int main() {
 	
 	printf("a_float: %f\n", a_float);
 	printf("b_int: %d\n", b_int);
-	
 	
 	return 0;
 }

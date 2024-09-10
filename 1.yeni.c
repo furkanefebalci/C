@@ -5,17 +5,7 @@
 // \t tab demek araya 1 tab kadar boşluk atıyor 
 
 int main() {
-    
-	
-	
 	printf("Furkan Efe Balci\tmerhaba\n");
-	printf("Muhendis");
-    
-	
-	
-	
-	
-	
-	
+	printf("Mühendis");
 	return 0;
 }

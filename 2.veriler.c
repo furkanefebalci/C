@@ -7,17 +7,13 @@
 //Deðiþken tanýmlama veritipi deðiþkenadý;
 //%s: printf ve benzeri fonksiyonlarda string(%s) yazdýrmak için kullanýlýr. string metin demek
 
-
 /*
 Uzun yazýlar için bu yazý aralðýný kullan 
 */
 
-
-
 #include <stdio.h>
 
 int main()  {
-
 
 int a1 = 42;
 char b1 = 66;
@@ -26,10 +22,6 @@ float c1 = 4.2;
 double d1 = 0.21;
 
 printf("%d %c %5d %.1f %.2f %s\n",a1,b1,b2,c1,d1,"Furkan Efe Balci");
-
-
-
-
 
 printf("%d byte \n",sizeof(char));                                
 printf("%d byte \n",sizeof(int));
@@ -45,22 +37,8 @@ printf("%d byte \n",sizeof(double));
 4 byte
 4 byte
 8 byte
-
-//Abime sor bu nedir
 */
-
-
-
-
-
-
-
-
-
-
-
     return 0;
-
 }
 
 
