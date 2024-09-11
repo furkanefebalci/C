@@ -68,12 +68,12 @@ int main () {
     	printf ("Harf Notunuz - DD ve ders ortalamaniz : %.2f\n", dersort);
     	if (okulortlama < 2.5) {
 		
-		printf("Kötü ortalama.\n");
+		printf("Kotu ortalama.");
 		}
    }
     
     else {	
-    	printf("Harf Notunuz - FF VE Ders Ortalamaniz : %.2f\n",dersort);
+    	printf("Harf Notunuz - FF VE Ders Ortalamaniz : %.2f\n", dersort);
     	printf("Dersten kaldiniz.");
 	}
    	   
