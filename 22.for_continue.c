@@ -7,7 +7,7 @@ int main () {
 	
 	int i;
 	
-	for(i = 1 ; i <= 10; i++) {
+	for(i = 1 ; i <= 10; i++=)) {
 		
 		
 		if(i % 2 == 1){ //i'nin 2 ile bölümünden kalan 1 ise bu sayý tek demektir
@@ -19,10 +19,12 @@ int main () {
 
 	}
 	printf("%d", toplam);
-/*
-Eðer i tek sayý ise (i % 2 == 1), continue komutu çalýþýr.
-continue komutu, döngüdeki geri kalan kodlarý atlar ve döngü bir sonraki iterasyona geçer.
-Yani, toplam += i; satýrý çalýþtýrýlmaz ve tek sayýlar toplama eklenmez.
-*/
+    /*
+    Eðer i tek sayý ise (i % 2 == 1), continue komutu çalýþýr.
+    continue komutu, döngüdeki geri kalan kodlarý atlar ve döngü bir sonraki iterasyona geçer.
+    Yani, toplam += i; satýrý çalýþtýrýlmaz ve tek sayýlar toplama eklenmez.
+    */
+    // i++ bu i = i + x demek (x) i'ye tanýnan tam sayý
+    
     return 0;
 }

@@ -31,7 +31,7 @@ int main () {
 	
 	 	
 	 	case 2: //para yatırma
-	 			printf("Bakiyeniz: %d\n", bakiye);
+	 		printf("Bakiyeniz: %d\n", bakiye);
 	 		printf("Yatiralacak Tutar:");
 	 		scanf("%d", & tutar);
 	 	

@@ -103,7 +103,7 @@ x = y;
 	//prefix  : ++i i ye hangi sayı atanmışsa o sayının 1 fazlasını eknara yazar
 	
 	int i = 2;
-	int b = i++;
+	int b = i++; // i++ bu i = i + x demek (x) i'ye tanınan tam sayı
 	printf("b = %d\n",b);
 	printf("i= %d\n",i);
 	

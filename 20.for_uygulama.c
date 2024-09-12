@@ -4,8 +4,8 @@
 //Fibonacci budur. 1,1,2,3,5,8,13,21..............
 int main(){
 	
-	int ilksayi =1;  
-	int ikincisayi =1;
+	int ilksayi = 1;  
+	int ikincisayi = 1;
 	int i;
 	
 	printf("%d\n%d\n",ilksayi,ikincisayi);
@@ -14,7 +14,7 @@ int main(){
 		
 		int temp = ikincisayi;
 		
-		ikincisayi += ilksayi;
+		ikincisayi += ilksayi; // bu aynı zamanda şudur ikincsayi = ikinci sayi + ilk sayı bunu unutma!!
 		
 		ilksayi = temp;
 		
@@ -25,19 +25,7 @@ int main(){
 	1.adım: ilksayi = 1, ikincisayi = 1 + 1 = 2
     2.adım: ilksayi = 1, ikincisayi = 2 + 1 = 3
     3.adım: ilksayi = 2, ikincisayi = 3 + 2 = 5
-    ve bu şekilde devam eder.
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+    ve bu şekilde devam eder
 	*/
 
 	return 0;

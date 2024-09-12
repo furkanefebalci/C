@@ -4,10 +4,10 @@ int main (){
 	int i;
 	int j;
 	
-	for(i=0 , j=1; i < 10 && j < 5 ; i++, j++) {
+	for(i = 0 , j = 1; i < 10 && j < 5 ; i++, j++) {
 		
 		// i veya j 2 sinden biri son bulduğu an ötekide son bulur
-		// eğer && yerine || koyarsam küçük olan büyük olanı takip eder
+		// eğer &&(ve) yerine || koyarsam küçük olan büyük olanı takip eder
 				
 		printf("i: %d j:%d\n",i,j);
 
