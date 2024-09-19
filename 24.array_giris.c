@@ -1,5 +1,5 @@
 #include<stdio.h>
-//array sýralamak demek
+//array (sýralamak) demek
 
 int main (){
 	// Bir tam sayý 

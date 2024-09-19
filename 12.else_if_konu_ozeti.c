@@ -2,13 +2,11 @@
 
 // uygun hassasiyet bulma programý 
 int main () {
-	
-	
+
 	int x;
 	
 	printf("Ekrana hassasiyetinizi giriniz.\n");
 	scanf("%d", &x);
-	
 	
 	if(x >= 10) {
 		
@@ -26,9 +24,7 @@ int main () {
 	printf("Hassiyetiniz cok dusuk");
 	
 	}
-
 	return 0;
-	
 	
 	/*
 	Bu programda önce x i tanýdým 

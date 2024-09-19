@@ -2,7 +2,7 @@
 
 int main (){
 	// char %c ile yazýlýr
-	char isim[20];
+	char isim[20];// 20 karakter uzunluðunda bir dizi tanýmlanýyor
 	            
 	
 	printf("isminizi girin:");
