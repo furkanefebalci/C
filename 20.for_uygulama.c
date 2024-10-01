@@ -1,6 +1,9 @@
 #include<stdio.h>
 #include<stdlib.h>
 //fibonacci serisi
+/*Fibonacci serisi kendisinde Ã¶nceki 2 sayÄ±nÄ±n
+toplamÄ±dÄ±r. 
+*/
 //Fibonacci budur. 1,1,2,3,5,8,13,21..............
 int main(){
 	
@@ -14,18 +17,18 @@ int main(){
 		
 		int temp = ikincisayi;
 		
-		ikincisayi += ilksayi; // bu aynı zamanda şudur ikincsayi = ikinci sayi + ilk sayı bunu unutma!!
+		ikincisayi += ilksayi; // bu aynÄ± zamanda ÅŸudur ikincsayi = ikinci sayi + ilk sayÄ± bunu unutma!!
 		
 		ilksayi = temp;
 		
 		printf("%d\n", ikincisayi);
 		}
 	/*
-	İlk iki terim: 1, 1
-	1.adım: ilksayi = 1, ikincisayi = 1 + 1 = 2
-    2.adım: ilksayi = 1, ikincisayi = 2 + 1 = 3
-    3.adım: ilksayi = 2, ikincisayi = 3 + 2 = 5
-    ve bu şekilde devam eder
+	Ä°lk iki terim: 1, 1
+	1.adÄ±m: ilksayi = 1, ikincisayi = 1 + 1 = 2
+    2.adÄ±m: ilksayi = 1, ikincisayi = 2 + 1 = 3
+    3.adÄ±m: ilksayi = 2, ikincisayi = 3 + 2 = 5
+    ve bu ÅŸekilde devam eder
 	*/
 
 	return 0;
