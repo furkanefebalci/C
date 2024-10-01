@@ -2,25 +2,25 @@
 
 /*
 printf("x:%d\ny:%d\na:%d\n",x,y,a); 
-tanımı:
+tanÃ½mÃ½:
 
-x;tam sayı yazdırma
-\n alt satır
-y:%d tam sayı yazdırma
-\n alt satır
-a:%d tam sayı yazdırma
+x;tam sayÃ½ yazdÃ½rma
+\n alt satÃ½r
+y:%d tam sayÃ½ yazdÃ½rma
+\n alt satÃ½r
+a:%d tam sayÃ½ yazdÃ½rma
 
-x,y,a sırasıyla yazdırma
-x,y,a olunca değerler düzgün olur 
+x,y,a sÃ½rasÃ½yla yazdÃ½rma
+x,y,a olunca deÃ°erler dÃ¼zgÃ¼n olur 
 ama 
 x,a,y
-yaptığımda a'nın değeri y ye y nin değeri ise a ya geçer
+yaptigimda a'nin degeri y'ye y nin degeri ise a ya geÃ§er
 
 */
 
-/* X = y dendiğinde sağdaki kısmı sola entegre eder 
+/* X = y dendiginde sagdaki kismi sola entegre eder 
 
-Örnek:
+Ã–rnek:
 int x= 12;
 
 int y = 13;
@@ -29,7 +29,7 @@ x = y;
 
     printf("%d\n",x+y);
 
-     onuç: 26
+     sonuÃ§: 26
 */
 
     int main() {
@@ -94,16 +94,16 @@ x = y;
     
   
 	
-	/* bir sayıyı arttırmak için x = x+1 
-	   bir sayıyı azaltmajk için ise x = x-1
+	/* bir sayiyi arttirmak iÃ§in x = x + 1 
+	   bir sayiyi azaltmak iÃ§in ise x = x - 1
 	 */
 
-	//Kısa yollar 
-	//postfix : i++ i ye hangi sayı atanmışsa o sayıyı ekrana yazar
-	//prefix  : ++i i ye hangi sayı atanmışsa o sayının 1 fazlasını eknara yazar
+	//Kisa yollar 
+	//postfix : i++ i ye hangi sayi atanmissa o sayiyi ekrana yazar
+	//prefix  : ++i i ye hangi sayÃ½ atanmissa o sayinin 1 fazlasini ekrana yazar
 	
 	int i = 2;
-	int b = i++; // i++ bu i = i + x demek (x) i'ye tanınan tam sayı
+	int b = i++; // i++ bu i = i + x demek (x) i'ye taninan tam sayi
 	printf("b = %d\n",b);
 	printf("i= %d\n",i);
 	
