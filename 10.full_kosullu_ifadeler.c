@@ -20,7 +20,7 @@ int main(){
 	
 	dersort= (vize1+ vize2 + final ) /3.0;
 	
-	// elseden veya if ten sonra tek satýr yazýyor isem süslü paranteze gerek yok.
+	// elseden veya if ten sonra tek satir yaziyor isem sÃ¼slÃ¼ paranteze gerek yok.
 	
 	if(dersort > 60 ) {
 		
@@ -34,7 +34,7 @@ int main(){
 		
 		if (ortlama < 2.5) {
 		/her if in else si olma mecburiyeti yok.	
-			printf("Butu gecsen bile dersi seneye al, çunku ortalaman dusuk.\n");
+			printf("Butu gecsen bile dersi seneye al, Ã§unku ortalaman dusuk.\n");
 		
 		}
 			
