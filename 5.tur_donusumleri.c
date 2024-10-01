@@ -5,7 +5,6 @@ int main() {
 	int a;
 	
 	// float
-	
 	float b;
 	
 	a = 10;
@@ -15,7 +14,7 @@ int main() {
 	printf("b: %f\n", b);
 	
 	
-	// Convert(dönüştürmek)
+	// Convert(dÃ¶nÃ¼stÃ¼rmek)
 	int b_int;
 	float a_float;
 	
