@@ -1,14 +1,14 @@
-//int: Tam sayılar için kullanılır. Örneğin, 42, -7. #d ile yazılır
-//short: Daha küçük bir tam sayı aralığı sağlar. Genellikle int'ten daha az yer kaplar.
-//long: Daha büyük bir tam sayı aralığı sağlar. Genellikle int'ten daha fazla yer kaplar.
-//float: Tek hassasiyetli kayan nokta sayıları için kullanılır. Örneğin, 3.14. #f ile yazılır 
-//double: Çift hassasiyetli kayan nokta sayıları için kullanılır. Örneğin, 3.14159265.
-//char: Tek bir karakteri temsil eder. Örneğin, 'a', '1'.
-//Değişken tanımlama veritipi değişkenadı;
-//%s: printf ve benzeri fonksiyonlarda string(%s) yazdırmak için kullanılır. string metin demek
+//int: Tam sayÄ±lar iÃ§in kullanÄ±lÄ±r. Ã–rneÄŸin, 42, -7. %d ile yazÄ±lÄ±r
+//short: Daha kÃ¼Ã§Ã¼k bir tam sayÄ± aralÄ±ÄŸÄ± saÄŸlar. Genellikle int'ten daha az yer kaplar.
+//long: Daha bÃ¼yÃ¼k bir tam sayÄ± aralÄ±ÄŸÄ± saÄŸlar. Genellikle int'ten daha fazla yer kaplar.
+//float: Tek hassasiyetli kayan nokta sayÄ±larÄ± iÃ§in kullanÄ±lÄ±r. Ã–rneÄŸin, 3.14. #f ile yazÄ±lÄ±r 
+//double: Ã‡ift hassasiyetli kayan nokta sayÄ±larÄ± iÃ§in kullanÄ±lÄ±r. Ã–rneÄŸin, 3.14159265.
+//char: Tek bir karakteri temsil eder. Ã–rneÄŸin, 'a', '1'.
+//DeÄŸiÅŸken tanÄ±mlama veritipi deÄŸiÅŸkenadÄ±;
+//%s: printf ve benzeri fonksiyonlarda string(%s) yazdÄ±rmak iÃ§in kullanÄ±lÄ±r. string metin demek
 
 /*
-Uzun yazılar için bu yazı aralğını kullan 
+Uzun yazÄ±lar iÃ§in bu yazÄ± aralÄŸÄ±nÄ± kullan 
 */
 
 #include <stdio.h>
