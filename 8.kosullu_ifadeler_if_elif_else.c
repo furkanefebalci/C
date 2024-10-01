@@ -1,6 +1,6 @@
 #include<stdio.h>
- //if (eðer)
-//bool veri tipi true (doðru) yada false (yanlýþ)
+ //if (eger)
+//bool veri tipi true (dogru) yada false (yanlis)
 
 
 int main() {
@@ -14,7 +14,7 @@ int main() {
 	
 	if(note > 60 ) {
 		
-		//yapýlacak iþlemler
+		//yapjlacak islemler
 
 		printf("Dersten gectiniz:");
 	} else {
