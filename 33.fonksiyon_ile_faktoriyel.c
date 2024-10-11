@@ -15,7 +15,6 @@ int faktoriyel(int sayi){
 	}
 	return fact;
 	// dýþ dünyaya aktarma diyor sor.
-	
 
 }
 int main () {
@@ -29,5 +28,4 @@ int main () {
     printf ("faktoriyel :%d",faktoriyel(n));
     //faktoriyel(n) sayýyý aldýðým yer 
     
-	
 }

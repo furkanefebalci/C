@@ -1,7 +1,6 @@
 #include<stdio.h>
 #include <stdbool.h> //true false için
 
-
 int main(){
 	
 	int toplam = 0;
@@ -17,13 +16,9 @@ int main(){
 		if (sayi == -1) { // bu olmaz ise döngü hep devam eder ve toplama iþlemi asla gelmez
 			break;
 		}
-		
-		
 		toplam +=sayi;
-
 	}
 	printf("%d",toplam);
 	
-
 	return 0;
 }

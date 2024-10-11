@@ -24,12 +24,9 @@ int main() {
 	   24.1= fact 
 	   ve iþlem bitti.
 	   */
-	
-
 		n--;
 		//n-- girilen sayýdan atýyorum 4, her seferinde 1 ekilmesini saðlýyor
 		
-
 	}
 	printf("Sonuc: %d", fact);
 

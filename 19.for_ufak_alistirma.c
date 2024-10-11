@@ -12,7 +12,6 @@ int main (){
 		printf("i: %d j:%d\n",i,j);
 
 	}
-	
 	return 0;
 	
 }

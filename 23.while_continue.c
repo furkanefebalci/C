@@ -9,7 +9,6 @@ int main () {
 	
 	while(i <= 10 ) {
 		
-		
 		if(i % 2 == 1){ // == bu iþaret karþýlarþtýrma iþaretidir unutma!!
 		    i++;
 		    continue;

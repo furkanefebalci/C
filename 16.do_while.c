@@ -23,7 +23,7 @@ int main (){
 	}
 	while (n > 0);
     /*
-    Üstteki dizide do bolðu çalýþtýrýyor 
+    Üstteki dizide do bloðu çalýþtýrýyor 
     ve printf n-- ile sürekli eksilterek 
     ekrana yazýyor taaki n = 0 olana dek 
     */

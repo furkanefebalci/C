@@ -1,13 +1,8 @@
 #include<stdio.h>
 int main () {
-	/*
-	1234 rakamlar toplamý kaç haneli olduðnu 
 	
+	//1234 rakamlar toplamý kaç haneli olduðnu 
 	
-	
-
-	
-	*/
 	int n, hane = 0,toplam =0;
 	
 	printf("Sayiyi giriniz:");
@@ -32,12 +27,15 @@ int main () {
 		
 		n= n/10; // Son rakamý kaldýrýr
 		
-		
 	}
+	
 	while(n > 0);
 	
 	printf("Rakamlarin Toplami: %d ve %d haneli ",toplam,hane);
-
-
+	
+	/*
+	Bu program, kullanýcýnýn girdiði bir sayýnýn 
+	basamaklarýnýn (rakamlarýnýn) toplamýný ve kaç haneli olduðunu buluyor.
+	*/
 	return 0;
 }

@@ -2,7 +2,6 @@
 
 int asal_mi(int sayi ){
 	
-	
 	int i;
 	
 	for (i= 2 ; i < sayi ; i++){

@@ -16,7 +16,8 @@ int main() {
    /* 
    Bu programý tanýmlarsak;
    ilk baþta 6 tane int karakteri
-   float aritmetik bu sonuç için 
+   float ayný zamanda sonucun tam çýkmama olasýlýðý olduðu için float koydum 
+   aritmetik bu sonuç için 
    sonrasýnda sayýlarýmýz tam sayý olacaðýn için %d
    kullanýcýnýn 6 tane sayý girmesi için  ise her sayýyý tanýmlama
    /6 yaptým toplam bölü terim sayýsý aritmetik ortalamayý verir

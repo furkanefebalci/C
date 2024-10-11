@@ -1,15 +1,12 @@
 #include<stdio.h>
 //for döngüsü, belirli bir kod bloðunu belirli bir sayýda tekrar etmek için kullanýlýr.
 int main (){
-	
-
+	 
 	int i;
 	
 	for(i = 0; i < 10 ; i++) {
 		
 		printf("%d\n",i);
-	
-	
 	}
 	
 //bu kodda 10 olana kadar tekrar etmesini istedik

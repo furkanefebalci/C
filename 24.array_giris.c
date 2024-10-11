@@ -9,8 +9,7 @@ int main (){
 	for(; i < 5 ; i++ ){
 		printf("%d\n", sayilar[i]);
 		
-	//bütün sayýlarý  ekrana yazmak için for veya while kullanman lazým 
-	
+	//bütün sayýlarý ekrana yazmak için for veya while kullanman lazým 
 	
 	/*
 	tek bir yazý almak için ise printf("%d\n" sayilar[]); yazman lazým

@@ -11,7 +11,6 @@ int main (){
 		scanf("%f", &sayilar[i]);	
 	}
 	
-	
 	for ( i = 0; i < 5 ; i++) {
 		toplam += sayilar[i];
 	}

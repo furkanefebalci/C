@@ -1,11 +1,8 @@
 #include<stdio.h>
  //if (eðer)
 //bool veri tipi true (doðru) yada false (yanlýþ)
-
-
 int main() {
 	
-    
 	int note;
 	
 	printf("Notunuzu girin:");

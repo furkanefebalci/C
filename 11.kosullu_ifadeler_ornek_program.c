@@ -20,8 +20,7 @@ int main () {
    printf("Universite ortalamanizi girin:");
    scanf("%f",&okulortlama);
 
-   
-   
+
    dersort = (vize1*3/10.0 + vize2*3/10.0 + final*4/10.0 );
    
    if (dersort >= 90) {

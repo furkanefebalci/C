@@ -3,8 +3,6 @@ void hatayibas(int hata){
 	
 	printf("Hata kodu %d",hata);
 }
-
-
 int main () { 
     
     int sayi;
@@ -22,8 +20,6 @@ int main () {
 		printf("Tebrikler");
 		
 	}
-
-
 
 return 0;
 }

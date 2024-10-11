@@ -29,7 +29,6 @@ int main () {
 			 break;
 	 		
 	
-	 	
 	 	case 2: //para yatırma
 	 		printf("Bakiyeniz: %d\n", bakiye);
 	 		printf("Yatiralacak Tutar:");
@@ -40,7 +39,6 @@ int main () {
 			 printf("Bakiyeniz:%d" , bakiye);
 			 break;
 	 		
-	 	
 	 	
 	 	case 3: // Havale
 	 			printf("Bakiyeniz: %d\n", bakiye);

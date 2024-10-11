@@ -8,8 +8,7 @@ int main () {
 	int i;
 	
 	for(i = 1 ; i <= 10; i++=)) {
-		
-		
+			
 		if(i % 2 == 1){ //i'nin 2 ile bölümünden kalan 1 ise bu sayý tek demektir
 		    
 		    continue;
